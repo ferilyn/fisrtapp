@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\fisrtapp\\firstapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|firstapp\\firstapp.csproj|c:\\dev\\fisrtapp\\firstapp\\firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|firstapp\\firstapp.csproj|solutionrelative:firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|firstapp\\firstapp.csproj|c:\\dev\\fisrtapp\\firstapp\\firstapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|firstapp\\firstapp.csproj|solutionrelative:firstapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|firstapp\\firstapp.csproj|c:\\dev\\fisrtapp\\firstapp\\firstapp\\wwwroot\\test_camera.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|firstapp\\firstapp.csproj|solutionrelative:firstapp\\wwwroot\\test_camera.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|firstapp\\firstapp.csproj|c:\\dev\\fisrtapp\\firstapp\\firstapp\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|firstapp\\firstapp.csproj|solutionrelative:firstapp\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|firstapp\\firstapp.csproj|c:\\dev\\fisrtapp\\firstapp\\firstapp\\firstapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|firstapp\\firstapp.csproj|solutionrelative:firstapp\\firstapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|firstapp\\firstapp.csproj|c:\\dev\\fisrtapp\\firstapp\\firstapp\\models\\visitormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|firstapp\\firstapp.csproj|solutionrelative:firstapp\\models\\visitormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test_camera.html",
+              "DocumentMoniker": "C:\\dev\\fisrtapp\\firstapp\\firstapp\\wwwroot\\test_camera.html",
+              "RelativeDocumentMoniker": "firstapp\\wwwroot\\test_camera.html",
+              "ToolTip": "C:\\dev\\fisrtapp\\firstapp\\firstapp\\wwwroot\\test_camera.html",
+              "RelativeToolTip": "firstapp\\wwwroot\\test_camera.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-05T05:28:11.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VisitorController.cs",
+              "DocumentMoniker": "C:\\dev\\fisrtapp\\firstapp\\firstapp\\Controllers\\VisitorController.cs",
+              "RelativeDocumentMoniker": "firstapp\\Controllers\\VisitorController.cs",
+              "ToolTip": "C:\\dev\\fisrtapp\\firstapp\\firstapp\\Controllers\\VisitorController.cs",
+              "RelativeToolTip": "firstapp\\Controllers\\VisitorController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T03:43:03.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\fisrtapp\\firstapp\\firstapp\\Program.cs",
+              "RelativeDocumentMoniker": "firstapp\\Program.cs",
+              "ToolTip": "C:\\dev\\fisrtapp\\firstapp\\firstapp\\Program.cs",
+              "RelativeToolTip": "firstapp\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T03:36:12.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\dev\\fisrtapp\\firstapp\\firstapp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "firstapp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\dev\\fisrtapp\\firstapp\\firstapp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "firstapp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-04T05:34:09.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VisitorModel.cs",
+              "DocumentMoniker": "C:\\dev\\fisrtapp\\firstapp\\firstapp\\Models\\VisitorModel.cs",
+              "RelativeDocumentMoniker": "firstapp\\Models\\VisitorModel.cs",
+              "ToolTip": "C:\\dev\\fisrtapp\\firstapp\\firstapp\\Models\\VisitorModel.cs",
+              "RelativeToolTip": "firstapp\\Models\\VisitorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T03:39:30.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "firstapp.csproj",
+              "DocumentMoniker": "C:\\dev\\fisrtapp\\firstapp\\firstapp\\firstapp.csproj",
+              "RelativeDocumentMoniker": "firstapp\\firstapp.csproj",
+              "ToolTip": "C:\\dev\\fisrtapp\\firstapp\\firstapp\\firstapp.csproj",
+              "RelativeToolTip": "firstapp\\firstapp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T03:37:28.227Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

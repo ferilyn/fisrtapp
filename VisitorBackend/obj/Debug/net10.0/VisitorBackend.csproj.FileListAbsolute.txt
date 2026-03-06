@@ -1,0 +1,8 @@
+C:\dev\fisrtapp\VisitorBackend\obj\Debug\net10.0\VisitorBackend.csproj.AssemblyReference.cache
+C:\dev\fisrtapp\VisitorBackend\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\dev\fisrtapp\VisitorBackend\obj\Debug\net10.0\VisitorBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\fisrtapp\VisitorBackend\obj\Debug\net10.0\VisitorBackend.AssemblyInfoInputs.cache
+C:\dev\fisrtapp\VisitorBackend\obj\Debug\net10.0\VisitorBackend.AssemblyInfo.cs
+C:\dev\fisrtapp\VisitorBackend\obj\Debug\net10.0\VisitorBackend.csproj.CoreCompileInputs.cache
+C:\dev\fisrtapp\VisitorBackend\obj\Debug\net10.0\VisitorBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\dev\fisrtapp\VisitorBackend\obj\Debug\net10.0\VisitorBackend.MvcApplicationPartsAssemblyInfo.cache

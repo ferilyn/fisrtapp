@@ -1,0 +1,6 @@
+@VmsApi_HostAddress = http://localhost:5124
+
+GET {{VmsApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

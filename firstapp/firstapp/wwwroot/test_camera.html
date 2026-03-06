@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h2>Tablet Camera Test</h2>
+    <video id="video" width="320" height="240" autoplay></video>
+    <script>
+        const video = document.getElementById('video');
+        navigator.mediaDevices.getUserMedia({ video: true })
+            .then(stream => { video.srcObject = stream; })
+            .catch(err => { alert("Error: " + err); });
+    </script>
+</body>
+</html>
